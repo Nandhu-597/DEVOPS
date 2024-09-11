@@ -45,6 +45,12 @@
                 <h3>Student Event Registration</h3>
                 <p>Fill in the form below to register for the event.</p>
             </div>
+              <div class="container">
+        <div class="registration-form">
+            <div class="form-header">
+                <h3>Student Event Registration</h3>
+                <p>Fill in the form below to register for the event.</p>
+            </div>
             <form id="registrationForm" class="needs-validation" novalidate>
                 <div class="mb-3">
                     <label for="name" class="form-label">Full Name</label>
